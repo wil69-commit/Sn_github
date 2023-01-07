@@ -5,6 +5,9 @@
 body {
 	font-family: 'Montserrat', sans-serif;
 	background: url(image.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
 .header {
 	position: fixed;
@@ -21,13 +24,15 @@ body {
 	overflow: hidden;
 }
 .logo {
-	font-size: 35px;
+	/*background: url(logo.png)  25px ;*/
+	
 	text-decoration: none;
 	padding: 10px;
 	float: left;
 	display: block;
 	color: #2ebd94;
 	font-weight: 700;
+	font-size: 40px;
 }
 .header .menu a {
 	padding: 1px 25px;
@@ -171,3 +176,4 @@ body {
 p{
 	color: white;
 }
+
