@@ -1,0 +1,37 @@
+
+.RAY{
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    flex: 40%;
+    padding: 10px;
+    min-width: 100px;
+    bottom: 20PX;
+    border-radius: 50px;
+    position: fixed;
+    right: 10px;
+    box-shadow: 0 0 5px rgb(0,0,255);
+    cursor: pointer;
+}
+body{
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    background-image: url(landscape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+ .copyright_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    left: 0;
+
+}
+.kel{
+    color:white;
+}
