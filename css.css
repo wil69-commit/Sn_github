@@ -1,0 +1,13 @@
+header{
+    border: 3px solid black;
+    background-color: aqua;
+    width: 50%;
+    padding: 10px;
+}
+
+body{
+    border: 3px solid black;
+    background-color: grey;
+    width: 50%;
+    padding: 10px;
+}
