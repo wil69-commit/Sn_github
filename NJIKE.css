@@ -1,0 +1,47 @@
+.h1 {
+  height: 40px;
+  padding: 20px 20px 0;
+  background: #e1e1e1;
+  color: white;
+}
+body{
+  background-image: url(g.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+header .mod{
+  color :rgb(246, 246, 252);
+}
+.nom {
+	font-size: 35px;
+	text-decoration: none;
+	padding: 10px;
+	float: left;
+	display: block;
+	color: #2ebd94;
+	font-weight: 700;
+}
+.mod p{
+  align-items: center;
+  color: rgb(234, 231, 240);
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.copyright_footer{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  left: 0;
+  
+}
+.kel{
+  color:white;
+}
+
